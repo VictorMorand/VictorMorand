@@ -1,0 +1,17 @@
+# GitHub Pages Configuration for Personal Academic Website
+title: Victor Morand - Academic Profile
+description: Personal academic website showcasing research, publications, and professional experience
+author: Victor Morand
+email: your.email@university.edu
+
+# Theme settings
+theme: null
+
+# Build settings
+markdown: kramdown
+
+# Exclude files from processing
+exclude:
+  - README.md
+  - LICENSE
+  - .gitignore

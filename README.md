@@ -1,16 +1,22 @@
-## Hi there 👋
+# Victor Morand
 
-<!--
-**VictorMorand/VictorMorand** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile! 👋
 
-Here are some ideas to get you started:
+## About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I am a researcher passionate about advancing knowledge through rigorous academic work and open collaboration.
+
+🌐 **Personal Website:** [https://victormorand.github.io/VictorMorand/](https://victormorand.github.io/VictorMorand/)
+
+## Quick Links
+
+- 🔭 Research interests and current projects
+- 📚 Publications and academic contributions
+- 💼 Professional experience and curriculum vitae
+- 📫 Contact information and social profiles
+
+Visit my [personal academic website](https://victormorand.github.io/VictorMorand/) to learn more about my research, publications, and professional background.
+
+## Connect With Me
+
+Feel free to explore my repositories and reach out for collaboration opportunities!
