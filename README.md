@@ -6,4 +6,4 @@ My thesis is entitled _Domain adaptation in Pretrained Language Models, Applicat
 
 Put more simply, we aim at improving information acess using the amazing ability of Pretrained Language Models to _understand_ text, while they're not that amazing at manipulating factual information yet...
 
-<h1 style="text-align:center;"> ➡️ See [my homepage](https://victormorand.github.io/) </h1>
+#### ➡️ See [my homepage](https://victormorand.github.io/)
